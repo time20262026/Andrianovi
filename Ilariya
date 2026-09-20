@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width"><title>https://yourspace.run/memorials/5a61f47ab271c90d03f094f566745c6471999b396e0cd0f0f04ebb1093ee17fb/</title><link rel="stylesheet" type="text/css" href="resource://content-accessible/viewsource.css"></head><body id="viewsource" style="tab-size: 4"><span id="line1"><span>k</span><span class="error doctype" title="Случайный doctype.">&lt;!DOCTYPE html&gt;</span><span>
+</span></span><span id="line2"><span></span><span class="error" title="Случайный открывающий тег «html».">&lt;<span class="start-tag">html</span> <span class="attribute-name">lang</span>="<a class="attribute-value">ru</a>"&gt;</span><span>
+</span></span><span id="line3"><span></span><span class="error" title="Случайный открывающий тег «head».">&lt;<span class="start-tag">head</span>&gt;</span><span>
+</span></span><span id="line4"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">charset</span>="<a class="attribute-value">UTF-8</a>"&gt;</span><span>
+</span></span><span id="line5"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">name</span>="<a class="attribute-value">viewport</a>" <span class="attribute-name">content</span>="<a class="attribute-value">width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes</a>"&gt;</span><span>
+</span></span><span id="line6"><span>    
+</span></span><span id="line7"><span>    </span><span class="comment">&lt;!-- Динамические мета-теги для SEO --&gt;</span><span>
+</span></span><span id="line8"><span>    </span><span>&lt;<span class="start-tag">title</span>&gt;</span><span>Андрианова Илария Александровна — Вечная память | Сайт памяти</span><span>&lt;/<span class="end-tag">title</span>&gt;</span><span>
+</span></span><span id="line9"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">name</span>="<a class="attribute-value">description</a>" <span class="attribute-name">content</span>="<a class="attribute-value">Сайт памяти Андрианова Илария Александровна. Биография, фото, свеча памяти, хронология жизни. Вечная память.</a>"&gt;</span><span>
+</span></span><span id="line10"><span>    
+</span></span><span id="line11"><span>    </span><span class="comment">&lt;!-- Open Graph для соцсетей --&gt;</span><span>
+</span></span><span id="line12"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">property</span>="<a class="attribute-value">og:title</a>" <span class="attribute-name">content</span>="<a class="attribute-value">Андрианова Илария Александровна — Вечная память | Сайт памяти</a>"&gt;</span><span>
+</span></span><span id="line13"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">property</span>="<a class="attribute-value">og:description</a>" <span class="attribute-name">content</span>="<a class="attribute-value">Сайт памяти Андрианова Илария Александровна. Биография, фото, свеча памяти, хронология жизни. Вечная память.</a>"&gt;</span><span>
+</span></span><span id="line14"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">property</span>="<a class="attribute-value">og:image</a>" <span class="attribute-name">content</span>="<a class="attribute-value">/memorials/5a61f47ab271c90d03f094f566745c6471999b396e0cd0f0f04ebb1093ee17fb/photo.jpg</a>"&gt;</span><span>
+</span></span><span id="line15"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">property</span>="<a class="attribute-value">og:url</a>" <span class="attribute-name">content</span>="<a class="attribute-value">https://yourspace.run/memorials/5a61f47ab271c90d03f094f566745c6471999b396e0cd0f0f04ebb1093ee17fb/</a>"&gt;</span><span>
+</span></span><span id="line16"><span>    </span><span>&lt;<span class="start-tag">meta</span> <span class="attribute-name">property</span>="<a class="attribute-value">og:type</a>" <span class="attribute-name">content</span>="<a class="attribute-value">website</a>"&gt;</span><span>
+</span></span><span id="line17"><span>    
+</span></span><span id="line18"><span>    </span><span>&lt;<span class="start-tag">style</span>&gt;</span><span>
+</span></span><span id="line19"><span>        * {
+</span></span><span id="line20"><span>            margin: 0;
+</span></span><span id="line21"><span>            padding: 0;
+</span></span><span id="line22"><span>            box-sizing: border-box;
+</span></span><span id="line23"><span>        }
+</span></span><span id="line24"><span>
+</span></span><span id="line25"><span>        body {
+</span></span><span id="line26"><span>            font-family: 'Georgia', 'Times New Roman', serif;
+</span></span><span id="line27"><span>            background: #e8e0d5;
+</span></span><span id="line28"><span>            color: #2c2c2c;
+</span></span><span id="line29"><span>            line-height: 1.6;
+</span></span><span id="line30"><span>        }
+</span></span><span id="line31"><span>
+</span></span><span id="line32"><span>        .memorial-container {
+</span></span><span id="line33"><span>            max-width: 1200px;
+</span></span><span id="line34"><span>            margin: 0 auto;
+</span></span><span id="line35"><span>            background: #fffef7;
+</span></span><span id="line36"><span>            box-shadow: 0 0 40px rgba(0,0,0,0.08);
+</span></span><span id="line37"><span>        }
+</span></span><span id="line38"><span>
+</span></span><span id="line39"><span>        .hero {
+</span></span><span id="line40"><span>            position: relative;
+</span></span><span id="line41"><span>            background: #1a1a1a;
+</span></span><span id="line42"><span>            min-height: 400px;
+</span></span><span id="line43"><span>            display: flex;
+</span></span><span id="line44"><span>            align-items: center;
+</span></span><span id="line45"><span>            justify-content: center;
+</span></span><span id="line46"><span>            overflow: hidden;
+</span></span><span id="line47"><span>        }
+</span></span><span id="line48"><span>
+</span></span><span id="line49"><span>        .hero-photo {
+</span></span><span id="line50"><span>            width: 100%;
+</span></span><span id="line51"><span>            height: auto;
+</span></span><span id="line52"><span>            max-height: 550px;
+</span></span><span id="line53"><span>            object-fit: cover;
+</span></span><span id="line54"><span>            opacity: 0.85;
+</span></span><span id="line55"><span>            transition: opacity 0.3s ease;
+</span></span><span id="line56"><span>        }
+</span></span><span id="line57"><span>
+</span></span><span id="line58"><span>        .hero-photo:hover {
+</span></span><span id="line59"><span>            opacity: 1;
+</span></span><span id="line60"><span>        }
+</span></span><span id="line61"><span>
+</span></span><span id="line62"><span>        .hero-overlay {
+</span></span><span id="line63"><span>            position: absolute;
+</span></span><span id="line64"><span>            bottom: 0;
+</span></span><span id="line65"><span>            left: 0;
+</span></span><span id="line66"><span>            right: 0;
+</span></span><span id="line67"><span>            background: linear-gradient(to top, rgba(0,0,0,0.8), transparent);
+</span></span><span id="line68"><span>            padding: 50px 40px 30px;
+</span></span><span id="line69"><span>        }
+</span></span><span id="line70"><span>
+</span></span><span id="line71"><span>        .hero-overlay h1 {
+</span></span><span id="line72"><span>            color: #f5e6d3;
+</span></span><span id="line73"><span>            font-size: 2.8rem;
+</span></span><span id="line74"><span>            letter-spacing: 2px;
+</span></span><span id="line75"><span>            text-shadow: 2px 2px 4px rgba(0,0,0,0.6);
+</span></span><span id="line76"><span>            margin: 0;
+</span></span><span id="line77"><span>            font-weight: normal;
+</span></span><span id="line78"><span>        }
+</span></span><span id="line79"><span>
+</span></span><span id="line80"><span>        .hero-overlay .dates {
+</span></span><span id="line81"><span>            color: #d4c5a9;
+</span></span><span id="line82"><span>            font-size: 1.1rem;
+</span></span><span id="line83"><span>            margin-top: 10px;
+</span></span><span id="line84"><span>            letter-spacing: 1px;
+</span></span><span id="line85"><span>        }
+</span></span><span id="line86"><span>
+</span></span><span id="line87"><span>        .hero-overlay .years-lived {
+</span></span><span id="line88"><span>            color: #ffd700;
+</span></span><span id="line89"><span>            font-size: 1rem;
+</span></span><span id="line90"><span>            margin-top: 8px;
+</span></span><span id="line91"><span>            font-weight: 500;
+</span></span><span id="line92"><span>        }
+</span></span><span id="line93"><span>
+</span></span><span id="line94"><span>        .content {
+</span></span><span id="line95"><span>            padding: 50px 60px;
+</span></span><span id="line96"><span>        }
+</span></span><span id="line97"><span>
+</span></span><span id="line98"><span>        .bio-section {
+</span></span><span id="line99"><span>            margin-bottom: 50px;
+</span></span><span id="line100"><span>        }
+</span></span><span id="line101"><span>
+</span></span><span id="line102"><span>        .section-title {
+</span></span><span id="line103"><span>            font-size: 1.6rem;
+</span></span><span id="line104"><span>            color: #6b4c3b;
+</span></span><span id="line105"><span>            margin-bottom: 25px;
+</span></span><span id="line106"><span>            font-weight: normal;
+</span></span><span id="line107"><span>            letter-spacing: 1px;
+</span></span><span id="line108"><span>            border-left: 4px solid #c9a76b;
+</span></span><span id="line109"><span>            padding-left: 20px;
+</span></span><span id="line110"><span>        }
+</span></span><span id="line111"><span>
+</span></span><span id="line112"><span>        .bio {
+</span></span><span id="line113"><span>            font-size: 1.1rem;
+</span></span><span id="line114"><span>            line-height: 1.8;
+</span></span><span id="line115"><span>            color: #3a3a3a;
+</span></span><span id="line116"><span>            text-align: justify;
+</span></span><span id="line117"><span>            white-space: pre-wrap;
+</span></span><span id="line118"><span>        }
+</span></span><span id="line119"><span>
+</span></span><span id="line120"><span>        .days-counter {
+</span></span><span id="line121"><span>            background: linear-gradient(135deg, #2a2a2a 0%, #1a1a1a 100%);
+</span></span><span id="line122"><span>            border-radius: 20px;
+</span></span><span id="line123"><span>            padding: 30px;
+</span></span><span id="line124"><span>            text-align: center;
+</span></span><span id="line125"><span>            margin-bottom: 40px;
+</span></span><span id="line126"><span>            border: 1px solid #c9a76b;
+</span></span><span id="line127"><span>        }
+</span></span><span id="line128"><span>        .days-number {
+</span></span><span id="line129"><span>            font-size: 3.5rem;
+</span></span><span id="line130"><span>            font-weight: bold;
+</span></span><span id="line131"><span>            color: #ffd700;
+</span></span><span id="line132"><span>            line-height: 1;
+</span></span><span id="line133"><span>        }
+</span></span><span id="line134"><span>        .days-label {
+</span></span><span id="line135"><span>            font-size: 1rem;
+</span></span><span id="line136"><span>            color: #d4c5a9;
+</span></span><span id="line137"><span>            letter-spacing: 2px;
+</span></span><span id="line138"><span>            margin-top: 10px;
+</span></span><span id="line139"><span>        }
+</span></span><span id="line140"><span>
+</span></span><span id="line141"><span>        .timeline-section {
+</span></span><span id="line142"><span>            margin: 40px 0;
+</span></span><span id="line143"><span>        }
+</span></span><span id="line144"><span>        .timeline {
+</span></span><span id="line145"><span>            position: relative;
+</span></span><span id="line146"><span>            padding: 20px 0;
+</span></span><span id="line147"><span>        }
+</span></span><span id="line148"><span>        .timeline::before {
+</span></span><span id="line149"><span>            content: '';
+</span></span><span id="line150"><span>            position: absolute;
+</span></span><span id="line151"><span>            left: 20px;
+</span></span><span id="line152"><span>            top: 0;
+</span></span><span id="line153"><span>            bottom: 0;
+</span></span><span id="line154"><span>            width: 3px;
+</span></span><span id="line155"><span>            background: #c9a76b;
+</span></span><span id="line156"><span>        }
+</span></span><span id="line157"><span>        .timeline-item {
+</span></span><span id="line158"><span>            position: relative;
+</span></span><span id="line159"><span>            margin-bottom: 25px;
+</span></span><span id="line160"><span>            margin-left: 45px;
+</span></span><span id="line161"><span>        }
+</span></span><span id="line162"><span>        .timeline-year {
+</span></span><span id="line163"><span>            font-weight: bold;
+</span></span><span id="line164"><span>            color: #c9a76b;
+</span></span><span id="line165"><span>            margin-bottom: 5px;
+</span></span><span id="line166"><span>            font-size: 1.1rem;
+</span></span><span id="line167"><span>        }
+</span></span><span id="line168"><span>        .timeline-text {
+</span></span><span id="line169"><span>            color: #3a3a3a;
+</span></span><span id="line170"><span>            font-size: 0.95rem;
+</span></span><span id="line171"><span>            line-height: 1.5;
+</span></span><span id="line172"><span>        }
+</span></span><span id="line173"><span>
+</span></span><span id="line174"><span>        .map-section {
+</span></span><span id="line175"><span>            background: #f5f0e8;
+</span></span><span id="line176"><span>            border-radius: 20px;
+</span></span><span id="line177"><span>            padding: 20px;
+</span></span><span id="line178"><span>            margin-bottom: 40px;
+</span></span><span id="line179"><span>            text-align: center;
+</span></span><span id="line180"><span>        }
+</span></span><span id="line181"><span>        .map-section h3 {
+</span></span><span id="line182"><span>            color: #6b4c3b;
+</span></span><span id="line183"><span>            margin-bottom: 15px;
+</span></span><span id="line184"><span>        }
+</span></span><span id="line185"><span>        .map-section a {
+</span></span><span id="line186"><span>            display: inline-block;
+</span></span><span id="line187"><span>            margin-top: 5px;
+</span></span><span id="line188"><span>        }
+</span></span><span id="line189"><span>        .map-coords {
+</span></span><span id="line190"><span>            font-size: 0.8rem;
+</span></span><span id="line191"><span>            color: #888;
+</span></span><span id="line192"><span>            margin-top: 10px;
+</span></span><span id="line193"><span>        }
+</span></span><span id="line194"><span>
+</span></span><span id="line195"><span>        .candle-section {
+</span></span><span id="line196"><span>            text-align: center;
+</span></span><span id="line197"><span>            margin-bottom: 40px;
+</span></span><span id="line198"><span>            padding: 20px;
+</span></span><span id="line199"><span>            background: #f9f5ed;
+</span></span><span id="line200"><span>            border-radius: 20px;
+</span></span><span id="line201"><span>            cursor: pointer;
+</span></span><span id="line202"><span>            transition: all 0.3s;
+</span></span><span id="line203"><span>        }
+</span></span><span id="line204"><span>        .candle-section:hover {
+</span></span><span id="line205"><span>            background: #f0e8dc;
+</span></span><span id="line206"><span>        }
+</span></span><span id="line207"><span>        .candle {
+</span></span><span id="line208"><span>            display: inline-block;
+</span></span><span id="line209"><span>            position: relative;
+</span></span><span id="line210"><span>            width: 60px;
+</span></span><span id="line211"><span>            height: 120px;
+</span></span><span id="line212"><span>            background: linear-gradient(180deg, #f5e6d3 0%, #d4c5a9 100%);
+</span></span><span id="line213"><span>            border-radius: 10px;
+</span></span><span id="line214"><span>            box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+</span></span><span id="line215"><span>            cursor: pointer;
+</span></span><span id="line216"><span>            transition: transform 0.2s;
+</span></span><span id="line217"><span>            margin-bottom: 10px;
+</span></span><span id="line218"><span>        }
+</span></span><span id="line219"><span>        .candle:hover {
+</span></span><span id="line220"><span>            transform: scale(1.02);
+</span></span><span id="line221"><span>        }
+</span></span><span id="line222"><span>        .candle .flame {
+</span></span><span id="line223"><span>            position: absolute;
+</span></span><span id="line224"><span>            top: -25px;
+</span></span><span id="line225"><span>            left: 50%;
+</span></span><span id="line226"><span>            transform: translateX(-50%);
+</span></span><span id="line227"><span>            width: 22px;
+</span></span><span id="line228"><span>            height: 40px;
+</span></span><span id="line229"><span>            background: radial-gradient(ellipse at center, #ff8800, #ffcc00, #ff6600);
+</span></span><span id="line230"><span>            border-radius: 50% 50% 20% 20%;
+</span></span><span id="line231"><span>            animation: flicker 0.3s infinite alternate;
+</span></span><span id="line232"><span>            box-shadow: 0 0 20px rgba(255,100,0,0.6);
+</span></span><span id="line233"><span>            display: none;
+</span></span><span id="line234"><span>        }
+</span></span><span id="line235"><span>        .candle .wick {
+</span></span><span id="line236"><span>            position: absolute;
+</span></span><span id="line237"><span>            top: -5px;
+</span></span><span id="line238"><span>            left: 50%;
+</span></span><span id="line239"><span>            transform: translateX(-50%);
+</span></span><span id="line240"><span>            width: 2px;
+</span></span><span id="line241"><span>            height: 10px;
+</span></span><span id="line242"><span>            background: #333;
+</span></span><span id="line243"><span>        }
+</span></span><span id="line244"><span>        @keyframes flicker {
+</span></span><span id="line245"><span>            0% { transform: translateX(-50%) scaleY(1); opacity: 0.85; }
+</span></span><span id="line246"><span>            100% { transform: translateX(-50%) scaleY(1.15); opacity: 1; }
+</span></span><span id="line247"><span>        }
+</span></span><span id="line248"><span>        .candle-message {
+</span></span><span id="line249"><span>            margin-top: 15px;
+</span></span><span id="line250"><span>            font-size: 0.9rem;
+</span></span><span id="line251"><span>            color: #6b4c3b;
+</span></span><span id="line252"><span>            font-weight: 500;
+</span></span><span id="line253"><span>        }
+</span></span><span id="line254"><span>        .candle-hint {
+</span></span><span id="line255"><span>            font-size: 0.75rem;
+</span></span><span id="line256"><span>            color: #aaa;
+</span></span><span id="line257"><span>            margin-top: 8px;
+</span></span><span id="line258"><span>        }
+</span></span><span id="line259"><span>
+</span></span><span id="line260"><span>        #candleSound {
+</span></span><span id="line261"><span>            display: none;
+</span></span><span id="line262"><span>        }
+</span></span><span id="line263"><span>
+</span></span><span id="line264"><span>        .qr-section {
+</span></span><span id="line265"><span>            background: #f5f0e8;
+</span></span><span id="line266"><span>            border-radius: 20px;
+</span></span><span id="line267"><span>            padding: 35px;
+</span></span><span id="line268"><span>            text-align: center;
+</span></span><span id="line269"><span>            border: 1px solid #e0d6c8;
+</span></span><span id="line270"><span>        }
+</span></span><span id="line271"><span>
+</span></span><span id="line272"><span>        .qr-code {
+</span></span><span id="line273"><span>            display: inline-block;
+</span></span><span id="line274"><span>            background: white;
+</span></span><span id="line275"><span>            padding: 12px;
+</span></span><span id="line276"><span>            border-radius: 16px;
+</span></span><span id="line277"><span>            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+</span></span><span id="line278"><span>            margin: 15px 0;
+</span></span><span id="line279"><span>        }
+</span></span><span id="line280"><span>
+</span></span><span id="line281"><span>        .qr-code img {
+</span></span><span id="line282"><span>            width: 160px;
+</span></span><span id="line283"><span>            height: 160px;
+</span></span><span id="line284"><span>            display: block;
+</span></span><span id="line285"><span>        }
+</span></span><span id="line286"><span>
+</span></span><span id="line287"><span>        .footer {
+</span></span><span id="line288"><span>            background: #2a2a2a;
+</span></span><span id="line289"><span>            color: #aaa;
+</span></span><span id="line290"><span>            text-align: center;
+</span></span><span id="line291"><span>            padding: 30px 20px;
+</span></span><span id="line292"><span>            font-size: 0.8rem;
+</span></span><span id="line293"><span>            border-top: 1px solid #4a4a4a;
+</span></span><span id="line294"><span>        }
+</span></span><span id="line295"><span>
+</span></span><span id="line296"><span>        .footer a {
+</span></span><span id="line297"><span>            color: #c9a76b;
+</span></span><span id="line298"><span>            text-decoration: none;
+</span></span><span id="line299"><span>            border-bottom: 1px dashed #c9a76b;
+</span></span><span id="line300"><span>            transition: color 0.3s, border-color 0.3s;
+</span></span><span id="line301"><span>        }
+</span></span><span id="line302"><span>
+</span></span><span id="line303"><span>        .footer a:hover {
+</span></span><span id="line304"><span>            color: #ffd700;
+</span></span><span id="line305"><span>            border-bottom-color: #ffd700;
+</span></span><span id="line306"><span>        }
+</span></span><span id="line307"><span>
+</span></span><span id="line308"><span>        @media (max-width: 768px) {
+</span></span><span id="line309"><span>            .hero-overlay h1 { font-size: 2rem; }
+</span></span><span id="line310"><span>            .content { padding: 30px 25px; }
+</span></span><span id="line311"><span>            .days-number { font-size: 2.5rem; }
+</span></span><span id="line312"><span>        }
+</span></span><span id="line313"><span>
+</span></span><span id="line314"><span>        @media (max-width: 480px) {
+</span></span><span id="line315"><span>            .content { padding: 20px 15px; }
+</span></span><span id="line316"><span>        }
+</span></span><span id="line317"><span>
+</span></span><span id="line318"><span>        .hero.no-photo {
+</span></span><span id="line319"><span>            background: #2c2418;
+</span></span><span id="line320"><span>            min-height: 250px;
+</span></span><span id="line321"><span>        }
+</span></span><span id="line322"><span>        .hero.no-photo .hero-overlay {
+</span></span><span id="line323"><span>            position: static;
+</span></span><span id="line324"><span>            background: none;
+</span></span><span id="line325"><span>            text-align: center;
+</span></span><span id="line326"><span>            padding: 50px 20px;
+</span></span><span id="line327"><span>        }
+</span></span><span id="line328"><span>        .hero.no-photo h1 {
+</span></span><span id="line329"><span>            color: #d4c5a9;
+</span></span><span id="line330"><span>            text-shadow: none;
+</span></span><span id="line331"><span>        }
+</span></span><span id="line332"><span>    </span><span>&lt;/<span class="end-tag">style</span>&gt;</span><span>
+</span></span><span id="line333"><span></span><span class="error" title="Случайный закрывающий тег «head».">&lt;/<span class="end-tag">head</span>&gt;</span><span>
+</span></span><span id="line334"><span></span><span class="error" title="Обнаружен открывающий тег «body», но такой элемент уже был открыт.">&lt;<span class="start-tag">body</span>&gt;</span><span>
+</span></span><span id="line335"><span></span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">memorial-container</a>"&gt;</span><span>
+</span></span><span id="line336"><span>    </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">hero has-photo {{^PHOTO}}no-photo{{/PHOTO}}</a>"&gt;</span><span>
+</span></span><span id="line337"><span>        
+</span></span><span id="line338"><span>            </span><span>&lt;<span class="start-tag">img</span> <span class="attribute-name">src</span>="<a class="attribute-value" href="view-source:https://yourspace.run/memorials/5a61f47ab271c90d03f094f566745c6471999b396e0cd0f0f04ebb1093ee17fb/photo.jpg">/memorials/5a61f47ab271c90d03f094f566745c6471999b396e0cd0f0f04ebb1093ee17fb/photo.jpg</a>" <span class="attribute-name">class</span>="<a class="attribute-value">hero-photo</a>" <span class="attribute-name">alt</span>="<a class="attribute-value">Андрианова Илария Александровна</a>"&gt;</span><span>
+</span></span><span id="line339"><span>        
+</span></span><span id="line340"><span>        </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">hero-overlay</a>"&gt;</span><span>
+</span></span><span id="line341"><span>            </span><span>&lt;<span class="start-tag">h1</span>&gt;</span><span>Андрианова Илария Александровна</span><span>&lt;/<span class="end-tag">h1</span>&gt;</span><span>
+</span></span><span id="line342"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">dates</a>"&gt;</span><span>22.02.1908 — 13.04.1993</span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line343"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">years-lived</a>" <span class="attribute-name">id</span>="<a class="attribute-value">yearsLived</a>"&gt;</span><span></span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line344"><span>        </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line345"><span>    </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line346"><span>
+</span></span><span id="line347"><span>    </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">content</a>"&gt;</span><span>
+</span></span><span id="line348"><span>        </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">bio-section</a>"&gt;</span><span>
+</span></span><span id="line349"><span>            </span><span>&lt;<span class="start-tag">h2</span> <span class="attribute-name">class</span>="<a class="attribute-value">section-title</a>"&gt;</span><span>📖 Биография</span><span>&lt;/<span class="end-tag">h2</span>&gt;</span><span>
+</span></span><span id="line350"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">bio</a>"&gt;</span><span>Андрианова (в девичестве Писарева) Илария Александровна.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line351"><span></span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line352"><span>Родилась Илария 13 февраля 1908 года (ст.стиль) в деревне Фомкино, родители крестьянин Александр Иванович и Агния Вонифатьевна Писаревы. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line353"><span>Но Илария отмечала свой день рождения 22 февраля по новому стилю:  записи о рождении часто делались с ошибками. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line354"><span>В семье было шестеро детей, Илария была пятым ребенком.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line355"><span>«Тятенька Александр один во всей округе выписывал газету, к нему в избу собирались жители близлежащих деревень послушать новости. Была фотография отца Александра с царем Николаем вторым. У тятеньки был свой магазин, он ездил за мануфактурой в Архангельскую область, туда вез кружева на продажу. Местное население делали заказы, привозил с учетом потребности селян. У нас над столом в Фомкино была подвешена сахарная голова: пили чай, лизнув эту сладость».</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line356"><span> Илария рано была обучена письму, грамотности, считать на счетах и в 5 лет могла отпустить в лавке «незамысловатый товар». Закончила 4 класса церковно-приходской школы, в которой за 4 года выдавали программу 8 классов современной школы, поэтому обучение было очень хорошим. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line357"><span>Раскулачивали семью Писаревых дважды: первый раз во времена продразверстки в 1918-19 годах, после этого в НЕП Александр снова поднялся и разбогател. Второй раз раскулачили в 1925 году.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line358"><span>Когда в 1925 году комитетчики-активисты раскулачивали, стучали, кричали в запертые двери: отец Александр сел за стол обхватил голову руками и больше не шевелился, ничего не говорил. Мама Агния подтащила большой чемодан денег к печке и стала жечь их, бросая в печь, приговаривая: «не нам, дак и не вам. Не нам, дак и не вам…». Когда ворвались она все деньги сожгла. Сделали опись всего имущества и забрали всё, уговоры «детей пожалеть» не помогли. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line359"><span>Вел себя Александр очень спокойно, все в себе держал, но поехал в город правды искать- везде отказ, плохо стало-увезли в больницу в Кувшиново (неизвестно от чего стало плохо, в те времена могли что угодно с </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line360"><span>человеком недовольным сделать). Там 31 января 1926 года он и умер, причина смерти не указана, похоронен на Лазаревском кладбище г. Вологды, сразу за храмом, рядом с могилой Полиевктовых. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line361"><span>Хотели отправить в ссылку Александра с семьей, но так как он умер, сослали Иларью зимой 1926 года в деревню Высоково рубить сучки (находящиеся на бревнах)-«непомерный труд для девушки», ей было 18 лет.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line362"><span>До замужества, когда еще жила в Фомкино, назначили Иларию обучать людей потому, что было много неграмотных.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line363"><span>Илария была верующей, пела на клиросе и после революции, пока не закрыли Николаевскую Отводинскую церковь. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line364"><span>Вышла замуж 28 октября 1930г. в д. Обросово за Михаила Васильевича Андрианова.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line365"><span>Илария работала колхозницей, муж Михаил-рыбаком. Дома царило взаимное уважение - жили они, как говорили, «согласно», душа в душу.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line366"><span>У супругов родилось четверо детей: Лев, Эдуард, Римма и Энгельсина. Имена всем им, необычные и звучные для деревенского быта, давал отец - Михаил Васильевич.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line367"><span>Когда началась война, в 1941 году, мужа Михаила призвали в армию.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line368"><span>В 1942 году, когда пришла похоронка на отца, Илария отчаянно плакала. Старшие дети обнимали её, уговаривали: «Выживем, мы не умрем, мы работать пойдем». Плакали все, очень любили отца. Детям было невыносимо тяжело, но старались держаться и поддерживать маму.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line369"><span>Перед самой войной Михаил и Илария отделились от родителей, купив рядом старый дом. Рассчитывали отремонтировать его и зажить своим хозяйством, но помешала война. Энгельсина родилась в этом доме, но дом так и не успели привести в порядок, и он стал непригодным для житья, там зимой развалилась печка. Денег не было, дети маленькие. Илария продала козу, и всё, что могла продать, но денег покупку дома всё равно не хватало.</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line370"><span>Тогда Евдокия, жена Анфинадора (родного брата Михаила), предложила купить дом (в котором жили Анфинодор и Евдокия до войны) вместе с её братом, Николаем Васильевичем Шабуриным. Илария согласилась, но сразу поставила условие: дети мои, не воспитывать и не касаться их. Так и жили они в одном доме, но не женились. Дети его уважали. Жили бедно, дверь никогда не запиралась: батожок подставишь значит, дома нет, «брать нечего, только ребятишки».</span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line371"><span>Илария  очень хорошо пела, играла на балалайке, умела плести кружева. Всегда разговаривала с детьми спокойно, даже когда они совершали плохие поступки, и никогда не повышала на них голос. </span><span>&lt;<span class="start-tag">br</span> <span>/</span>&gt;</span><span>
+</span></span><span id="line372"><span>Всю жизнь она проработала в колхозе. Её имя занесено в Книгу почёта Вологодской области, она награждена медалью «За самоотверженный труд в тылу», была ударником труда и получала благодарности.</span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line373"><span>        </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line374"><span>
+</span></span><span id="line375"><span>        
+</span></span><span id="line376"><span>        </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">days-counter</a>"&gt;</span><span>
+</span></span><span id="line377"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">days-number</a>"&gt;</span><span>12202</span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line378"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">days-label</a>"&gt;</span><span>ДНЕЙ С МОМЕНТА УХОДА</span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line379"><span>        </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line380"><span>        
+</span></span><span id="line381"><span>        
+</span></span><span id="line382"><span>        </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">map-section</a>"&gt;</span><span>
+</span></span><span id="line383"><span>            </span><span>&lt;<span class="start-tag">h3</span>&gt;</span><span>📍 Место захоронения</span><span>&lt;/<span class="end-tag">h3</span>&gt;</span><span>
+</span></span><span id="line384"><span>            </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span></span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://yandex.ru/maps/?ll=39.5972,59.4795&amp;z=15&amp;l=map&amp;pt=39.5972,59.4795,pm2rdm">https://yandex.ru/maps/?ll=39.5972,59.4795<span><span>&amp;</span>z</span>=15<span><span>&amp;</span>l</span>=map<span><span>&amp;</span>p</span>t=39.5972,59.4795,pm2rdm</a>" <span class="attribute-name">target</span>="<a class="attribute-value">_blank</a>" <span class="attribute-name">rel</span>="<a class="attribute-value">noopener noreferrer</a>" <span class="attribute-name">style</span>="<a class="attribute-value">color: #c9a76b; text-decoration: none; border-bottom: 1px dashed;</a>"&gt;</span><span>
+</span></span><span id="line385"><span>                🔗 Открыть на Яндекс.Картах
+</span></span><span id="line386"><span>            </span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span></span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line387"><span>            </span><span>&lt;<span class="start-tag">p</span> <span class="attribute-name">class</span>="<a class="attribute-value">map-coords</a>"&gt;</span><span>Координаты: 59.4795, 39.5972</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line388"><span>        </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line389"><span>
+</span></span><span id="line390"><span>        </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">candle-section</a>" <span class="attribute-name">id</span>="<a class="attribute-value">candleSection</a>"&gt;</span><span>
+</span></span><span id="line391"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">candle</a>" <span class="attribute-name">id</span>="<a class="attribute-value">memorialCandle</a>"&gt;</span><span>
+</span></span><span id="line392"><span>                </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">wick</a>"&gt;</span><span></span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line393"><span>                </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">flame</a>" <span class="attribute-name">id</span>="<a class="attribute-value">candleFlame</a>"&gt;</span><span></span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line394"><span>            </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line395"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">candle-message</a>" <span class="attribute-name">id</span>="<a class="attribute-value">candleMessage</a>"&gt;</span><span>🕯️ Зажгите свечу памяти</span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line396"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">candle-hint</a>"&gt;</span><span>✨ Нажмите на свечу ✨</span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line397"><span>        </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line398"><span>
+</span></span><span id="line399"><span>        </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">qr-section</a>"&gt;</span><span>
+</span></span><span id="line400"><span>            </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>📱 Сканируйте QR‑код, чтобы открыть сайт памяти</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line401"><span>            </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">qr-code</a>"&gt;</span><span>
+</span></span><span id="line402"><span>                </span><span>&lt;<span class="start-tag">img</span> <span class="attribute-name">src</span>="<a class="attribute-value" href="view-source:https://yourspace.run/qr_cache/94ad1c370e3946ac3e1bca491283ea45.png">/qr_cache/94ad1c370e3946ac3e1bca491283ea45.png</a>" <span class="attribute-name">alt</span>="<a class="attribute-value">QR-код сайта памяти Андрианова Илария Александровна</a>"&gt;</span><span>
+</span></span><span id="line403"><span>            </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line404"><span>            </span><span>&lt;<span class="start-tag">p</span> <span class="attribute-name">style</span>="<a class="attribute-value">font-size: 0.85rem; color: #8a7a6a;</a>"&gt;</span><span>QR-код можно разместить на памятнике</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line405"><span>        </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line406"><span>    </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line407"><span>
+</span></span><span id="line408"><span>    </span><span>&lt;<span class="start-tag">div</span> <span class="attribute-name">class</span>="<a class="attribute-value">footer</a>"&gt;</span><span>
+</span></span><span id="line409"><span>        </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>🕯️ Андрианова Илария Александровна — навсегда в памяти</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line410"><span>        </span><span>&lt;<span class="start-tag">p</span>&gt;</span><span>Сайт памяти • Цифровое наследие • Вечная память</span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line411"><span>        </span><span>&lt;<span class="start-tag">p</span> <span class="attribute-name">style</span>="<a class="attribute-value">margin-top: 15px;</a>"&gt;</span><span>
+</span></span><span id="line412"><span>            </span><span>&lt;<span class="start-tag">a</span> <span class="attribute-name">href</span>="<a class="attribute-value" href="view-source:https://yourspace.run/">https://yourspace.run/</a>"&gt;</span><span>⚡ Создать сайт памяти</span><span>&lt;/<span class="end-tag">a</span>&gt;</span><span>
+</span></span><span id="line413"><span>        </span><span>&lt;/<span class="end-tag">p</span>&gt;</span><span>
+</span></span><span id="line414"><span>    </span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line415"><span></span><span>&lt;/<span class="end-tag">div</span>&gt;</span><span>
+</span></span><span id="line416"><span>
+</span></span><span id="line417"><span></span><span>&lt;<span class="start-tag">audio</span> <span class="attribute-name">id</span>="<a class="attribute-value">candleSound</a>" <span class="attribute-name">preload</span>="<a class="attribute-value">auto</a>"&gt;</span><span>
+</span></span><span id="line418"><span>    </span><span>&lt;<span class="start-tag">source</span> <span class="attribute-name">src</span>="<a class="attribute-value" href="view-source:https://yourspace.run/zvon2.mp3">/zvon2.mp3</a>" <span class="attribute-name">type</span>="<a class="attribute-value">audio/mpeg</a>"&gt;</span><span>
+</span></span><span id="line419"><span></span><span>&lt;/<span class="end-tag">audio</span>&gt;</span><span>
+</span></span><span id="line420"><span></span><span>&lt;<span class="start-tag">script</span>&gt;</span><span>
+</span></span><span id="line421"><span>    function calcYears() {
+</span></span><span id="line422"><span>        const datesElem = document.querySelector('.hero-overlay .dates');
+</span></span><span id="line423"><span>        if (datesElem) {
+</span></span><span id="line424"><span>            const datesText = datesElem.innerText;
+</span></span><span id="line425"><span>            const parts = datesText.split('—');
+</span></span><span id="line426"><span>            if (parts.length === 2) {
+</span></span><span id="line427"><span>                const birthStr = parts[0].trim();
+</span></span><span id="line428"><span>                const deathStr = parts[1].trim();
+</span></span><span id="line429"><span>                if (birthStr &amp;&amp; deathStr) {
+</span></span><span id="line430"><span>                    const birth = new Date(birthStr.split('.').reverse().join('-'));
+</span></span><span id="line431"><span>                    const death = new Date(deathStr.split('.').reverse().join('-'));
+</span></span><span id="line432"><span>                    const years = death.getFullYear() - birth.getFullYear();
+</span></span><span id="line433"><span>                    if (!isNaN(years) &amp;&amp; years &gt; 0) {
+</span></span><span id="line434"><span>                        document.getElementById('yearsLived').innerHTML = 'Прожито ' + years + ' ' + getYearsWord(years);
+</span></span><span id="line435"><span>                    }
+</span></span><span id="line436"><span>                }
+</span></span><span id="line437"><span>            }
+</span></span><span id="line438"><span>        }
+</span></span><span id="line439"><span>    }
+</span></span><span id="line440"><span>    
+</span></span><span id="line441"><span>    function getYearsWord(years) {
+</span></span><span id="line442"><span>        if (years % 10 === 1 &amp;&amp; years % 100 !== 11) return 'год';
+</span></span><span id="line443"><span>        if (years % 10 &gt;= 2 &amp;&amp; years % 10 </span><span>&lt;=</span><span> 4 &amp;&amp; (years % 100 </span><span>&lt; </span><span>10 || years % 100 &gt;= 20)) return 'года';
+</span></span><span id="line444"><span>        return 'лет';
+</span></span><span id="line445"><span>    }
+</span></span><span id="line446"><span>    
+</span></span><span id="line447"><span>    let candleLit = false;
+</span></span><span id="line448"><span>    const flame = document.getElementById('candleFlame');
+</span></span><span id="line449"><span>    const candleMessage = document.getElementById('candleMessage');
+</span></span><span id="line450"><span>    const candleSound = document.getElementById('candleSound');
+</span></span><span id="line451"><span>    const candleSection = document.getElementById('candleSection');
+</span></span><span id="line452"><span>    
+</span></span><span id="line453"><span>    function lightCandle() {
+</span></span><span id="line454"><span>        if (!candleLit) {
+</span></span><span id="line455"><span>            candleLit = true;
+</span></span><span id="line456"><span>            flame.style.display = 'block';
+</span></span><span id="line457"><span>            candleMessage.innerHTML = '🕯️ Свеча горит в память о Андрианова Илария Александровна';
+</span></span><span id="line458"><span>            if (candleSound) {
+</span></span><span id="line459"><span>                candleSound.currentTime = 0;
+</span></span><span id="line460"><span>                candleSound.play().catch(e =&gt; console.log('Звук не воспроизведён:', e));
+</span></span><span id="line461"><span>            }
+</span></span><span id="line462"><span>        }
+</span></span><span id="line463"><span>    }
+</span></span><span id="line464"><span>    
+</span></span><span id="line465"><span>    if (candleSection) {
+</span></span><span id="line466"><span>        candleSection.addEventListener('click', lightCandle);
+</span></span><span id="line467"><span>    }
+</span></span><span id="line468"><span>    
+</span></span><span id="line469"><span>    calcYears();
+</span></span><span id="line470"><span></span><span>&lt;/<span class="end-tag">script</span>&gt;</span><span>
+</span></span><span id="line471"><span></span><span>&lt;/<span class="end-tag">body</span>&gt;</span><span>
+</span></span><span id="line472"><span></span><span>&lt;/<span class="end-tag">html</span>&gt;</span><span>
+</span></span><span id="line473"><span></span></span></body></html>
