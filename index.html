@@ -247,7 +247,7 @@ body {
         </div>
 
         <div class="days-counter">
-            <div class="days-number">12202</div>
+            <div class="days-number" id="daysNumber">—</div>
             <div class="days-label">ДНЕЙ С МОМЕНТА УХОДА</div>
         </div>
 
@@ -284,7 +284,7 @@ body {
 </div>
 
 <audio id="candleSound" preload="auto">
-    <source src="zvon2.mp4" type="audio/mp4">
+    <source src="zvon2.mp3" type="audio/mpeg">
 </audio>
 <script>
 function calcYears() {
@@ -311,6 +311,16 @@ function getYearsWord(years) {
     if (years % 10 >= 2 && years % 10 <= 4 && (years % 100 < 10 || years % 100 >= 20)) return 'года';
     return 'лет';
 }
+function calcDays() {
+    const deathDate = new Date('1993-04-13T00:00:00');
+    const today = new Date();
+    const diffMs = today - deathDate;
+    const days = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+    const el = document.getElementById('daysNumber');
+    if (el && !isNaN(days) && days > 0) {
+        el.textContent = days.toLocaleString('ru-RU');
+    }
+}
 let candleLit = false;
 const flame = document.getElementById('candleFlame');
 const candleMessage = document.getElementById('candleMessage');
@@ -331,6 +341,7 @@ if (candleSection) {
     candleSection.addEventListener('click', lightCandle);
 }
 calcYears();
+calcDays();
 </script>
 </body>
 </html>
